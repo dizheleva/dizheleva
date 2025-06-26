@@ -43,7 +43,7 @@ I'm a passionate software developer with a strong foundation in C#, JavaScript, 
 
 ## 📫 Contact
 
-- [LinkedIn]([#](https://www.linkedin.com/in/dilyana-zheleva-175982325/))
+- [LinkedIn](https://www.linkedin.com/in/dilyana-zheleva-175982325/))
 - [Email](di.zheleva89@gmail.com)
 
 ---
