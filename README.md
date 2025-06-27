@@ -36,7 +36,7 @@ I'm a passionate software developer with a strong foundation in C#, JavaScript, 
 ## 📂 Featured Projects
 
 - [SoftUni-Courses](https://github.com/dizheleva/SoftUni-Courses): Solutions and projects from my SoftUni journey.
-- [Responsive Startup Website](https://github.com/dizheleva/SoftUni-Courses/tree/main/JavaScript/32-34.Workshop/ResponsiveStartupWebsite): Modern responsive landing page template for startups.
+- [Responsive Startup Website](https://github.com/dizheleva/Sirma-Academy/tree/main/JavaScript/32-34.Workshop/ResponsiveStartupWebsite): Modern responsive landing page template for startups.
 - [CinemaWeb (ASP.NET Core)](https://github.com/dizheleva/SoftUni-Courses/tree/main/C%23%20WEB/ASP.NET%20Introduction/ASP.NET%20Core%20Introduction%20-%20Exercises/CinemaWeb-May-2025): Simple cinema web application built with ASP.NET Core.
 
 ---
