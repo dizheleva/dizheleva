@@ -21,15 +21,12 @@ I'm a passionate software developer with a strong foundation in C#, JavaScript, 
 
 ## 🏆 Certifications
 
-- [C# Fundamentals (SoftUni)](https://softuni.bg/certificates/details/79973/93277d01)
-- [C# Advanced (SoftUni)](https://softuni.bg/certificates/details/83336/3cf5ca61)
-- [C# OOP (SoftUni)](https://softuni.bg/certificates/details/87559/fa1650c3)
-- [MS SQL (SoftUni)](https://softuni.bg/certificates/details/97782/1ece96c4)
-- [Entity Framework Core (SoftUni)](https://softuni.bg/certificates/details/104381/7959534c)
-- [JS Advanced (SoftUni)](https://softuni.bg/certificates/details/90454/0da271ab)
-- [JS Applications (SoftUni)](https://softuni.bg/certificates/details/112449/3ea64181)
-- [HTML & CSS (SoftUni)](https://softuni.bg/certificates/details/228560/91d0c27b)
-- [JS Front-End (SoftUni)](https://softuni.bg/certificates/details/233135/85b8f480)
+| Category | Certificate | Institution |
+|-----------|--------------|-------------|
+| 🎓 **Diploma** | [Back-End Software Engineer with C#](https://softuni.bg/certificates/details/250249/0d05adc4) | SoftUni |
+| 💻 **C# & Backend** | [C# Fundamentals](https://softuni.bg/certificates/details/79973/93277d01) <br> [C# Advanced](https://softuni.bg/certificates/details/83336/3cf5ca61) <br> [C# OOP](https://softuni.bg/certificates/details/87559/fa1650c3) <br> [MS SQL](https://softuni.bg/certificates/details/97782/1ece96c4) <br> [Entity Framework Core](https://softuni.bg/certificates/details/104381/7959534c) <br> [ASP.NET Fundamentals](https://softuni.bg/certificates/details/245721/36b473a0) <br> [ASP.NET Advanced](https://softuni.bg/certificates/details/248509/b60bb533) | SoftUni |
+| 🌐 **Front-End** | [HTML & CSS](https://softuni.bg/certificates/details/228560/91d0c27b) <br> [JS Advanced](https://softuni.bg/certificates/details/90454/0da271ab) <br> [JS Applications](https://softuni.bg/certificates/details/112449/3ea64181) <br> [JS Front-End](https://softuni.bg/certificates/details/233135/85b8f480) <br> ReactJS - ongoing | SoftUni |
+
 
 ---
 
