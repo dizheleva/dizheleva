@@ -35,8 +35,8 @@ I'm a passionate software developer with a strong foundation in C#, JavaScript, 
 - [ClientHub](https://github.com/dizheleva/ClientHub): Lightweight Customer Relationship Manager built with ASP.NET Core 8 (C#) and React (Vite).
 - [TaskFlow](https://github.com/dizheleva/TaskFlow): Mini task management application built with ASP.NET Core 8 (C#) and React (Vite).
 - [PetGroomingApp](https://github.com/dizheleva/PetGroomingApp): Application for managing grooming salons appointments with solid architecture. Build with ASP.NET Core, EF Core, Bootstrap, Repository pattern.
+- [CinemaWeb (ASP.NET Core)](https://github.com/dizheleva/SoftUni-Courses/tree/main/C%23%20WEB/ASP.NET%20Core%20-%20Exercises/CinemaWeb-May-2025): Simple cinema web application built with ASP.NET Core.
 - [Responsive Startup Website](https://github.com/dizheleva/Sirma-Academy/tree/main/JavaScript/32-34.Workshop/ResponsiveStartupWebsite): Modern responsive landing page template for startups built with React (Vite).
-- [CinemaWeb (ASP.NET Core)](https://github.com/dizheleva/SoftUni-Courses/tree/main/C%23%20WEB/ASP.NET%20Introduction/ASP.NET%20Core%20Introduction%20-%20Exercises/CinemaWeb-May-2025): Simple cinema web application built with ASP.NET Core.
 
 ---
 
