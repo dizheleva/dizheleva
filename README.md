@@ -1,4 +1,4 @@
-# Hi, I'm Diana Zheleva 👋
+# Hi, I'm Dilyana Zheleva 👋
 
 **C# Web Developer | JavaScript Enthusiast | SoftUni Certified**
 
